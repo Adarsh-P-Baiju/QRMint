@@ -1,0 +1,6 @@
+vpa,name,amount,note
+test1@upi,User One,100,Test Payment 1
+test2@upi,User Two,200,Test Payment 2
+test3@upi,User Three,350,Service Charge
+merchant@upi,Merchant One,500,Bill #1234
+friend@upi,Friend Name,50,Lunch Share

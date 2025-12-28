@@ -1,0 +1,8 @@
+qrcode[pil]
+Pillow
+customtkinter
+pandas
+openpyxl
+matplotlib
+reportlab
+pyinstaller

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Database
+# *.db (We might want to checking the DB structure but probably not the data if it grows large, but typically locally for this app we ignore it)
+upi_app.db
+
+# Excel
+*.xlsx
+*.xls
+
+# VS Code
+.vscode/
+
+# Virtual Env
+env/
+venv/
+.venv/
+
+# PyInstaller
+dist/
+build/
+*.spec
